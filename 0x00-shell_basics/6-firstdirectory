@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 mkdir -p /temp/my_first_directory
+=======
+#!/bin/bash
+mkdir /temp/my_first_directory
+>>>>>>> af7f13d545b7891d4b62e8e0b45c0bb46c5e0168
