@@ -1,6 +1,0 @@
-<<<<<<< HEAD
-=======
-#!/bi/bash
- cat /etc/passwd
->>>>>>> 815a391743b72a7446a9c5a7dfcbe0d6c56a8317
- cat /etc/passwd
