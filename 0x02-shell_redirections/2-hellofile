@@ -1,3 +1,2 @@
 #!/bin/bash
-cat /etc/passwd
-(why?)
+cat /etc/pass
